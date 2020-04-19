@@ -22,7 +22,7 @@ function doGet(e) {
 	return HtmlService.createHtmlOutputFromFile('This is the return from another function')
       }
   }
-function doPost (e) {
+function doPost(e) {
   var reqfunct=(e.parameters.reqfunct)
    if(reqfunct == "writetosheet")
       {
