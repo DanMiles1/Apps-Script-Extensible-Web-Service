@@ -8,3 +8,5 @@ The script allows you to make an extensible web service to allow your projects t
 There is a full article on use on the link below:
 
 https://medium.com/@dan_38725/create-an-extensible-rest-web-service-for-google-sheets-using-apps-script-91b62e920f2a
+
+[GitHub Pages](https://pages.github.com/)
