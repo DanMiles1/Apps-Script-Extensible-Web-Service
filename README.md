@@ -1,4 +1,4 @@
-# Apps-Script-Extensible-Web-Service
+# Google Apps Script Extensible Web Service
 Google Apps Script to create an Extensible Web Service for Google Sheets
 
 Google Sheets is a great service for storing and manipulating data in the cloud and can be a simple back-end for your IoT, Mobile or Web Application projects. Google Apps Script makes it easy to build up complex functionality and expose your Sheets as a REST Web service to integrate with your projects.
